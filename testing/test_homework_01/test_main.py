@@ -2,7 +2,7 @@
 import pytest
 from faker import Faker
 
-homework = pytest.importorskip("homework_01.main")
+homework = pytest.importorskip("homework_01.homework_01")
 
 fake = Faker()
 
